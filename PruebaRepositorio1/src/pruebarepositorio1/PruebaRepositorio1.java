@@ -5,22 +5,20 @@
  */
 package pruebarepositorio1;
 
-
 public class PruebaRepositorio1 {
 
-    
+    protected String codigo;
+    private int numero;
+
     public static void main(String[] args) {
-       
+
         System.out.println("Solo vemos si esto Funciona (^_^)");
         System.out.println("Avekiondapeerriii");
         System.out.println("asdjaskdfjaskfjwek enzo olakease :v");
         System.out.println("algo coherente");
         System.out.println("Esto es el ejer.....");
-        
+
     }
-    
-    protected String codigo;
-    private int numero;
-    
-    
+
+
 }
