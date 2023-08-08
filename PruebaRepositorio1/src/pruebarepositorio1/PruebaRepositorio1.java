@@ -19,4 +19,8 @@ public class PruebaRepositorio1 {
         
     }
     
+    protected String codigo;
+    private int numero;
+    
+    
 }
