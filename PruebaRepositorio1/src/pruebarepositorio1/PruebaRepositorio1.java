@@ -22,10 +22,12 @@ public class PruebaRepositorio1 {
 
         
         /*
-        vos, gachi y pachi....*/
+        vos, gachi y pachi....y los dos tipos de atras... */
 
         System.out.println("vamoooo");
 
+        
+        
 
     }
 
