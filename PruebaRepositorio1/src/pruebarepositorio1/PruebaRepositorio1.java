@@ -17,7 +17,9 @@ public class PruebaRepositorio1 {
         System.out.println("asdjaskdfjaskfjwek enzo olakease :v");
         System.out.println("algo coherente");
         System.out.println("Esto es el ejer.....");
-        System.out.println("a ver que onnda?");
+        System.out.println("LALA");
+        System.out.println("hoblizzzz");
+
 
     }
 
