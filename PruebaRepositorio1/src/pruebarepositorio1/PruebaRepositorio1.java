@@ -9,7 +9,7 @@ public class PruebaRepositorio1 {
 
     protected String codigo;
     private int numero;
-
+    
     public static void main(String[] args) {
 
         System.out.println("Solo vemos si esto Funciona (^_^)");
